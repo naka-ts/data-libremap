@@ -15,7 +15,7 @@
     }
   },
   "sprite": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm",
-  "glyphs": "https://naka-ts.github.io/data-libremap/pixel-style/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://naka-ts.github.io/data-libremap/pixel-style/font/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
